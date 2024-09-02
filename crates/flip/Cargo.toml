@@ -1,0 +1,9 @@
+[package]
+name = "flip"
+version = "0.1.0"
+edition = "2021"
+workspace = "../../"
+authors.workspace = true
+
+[dependencies]
+flip-libx11 = { version = "0.1.0", path = "../flip-libx11" }
