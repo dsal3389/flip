@@ -7,4 +7,3 @@ authors.workspace = true
 
 [dependencies]
 anyhow = "1.0.86"
-flip-libx11 = { version = "0.1.0", path = "../flip-libx11" }
